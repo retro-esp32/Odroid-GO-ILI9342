@@ -99,6 +99,6 @@ Overwrite the following files in your local Odroid Firmware *components/odroid* 
 ```
 
 ### Examples
-![Arduino Sketch](images/example_001.png)
-![Gaming Hardware](images/example_002.png)
-![NES Emulator](images/example_003.png)
+![Arduino Sketch](images/example_001.jpg)
+![Gaming Hardware](images/example_002.jpg)
+![NES Emulator](images/example_003.jpg)
